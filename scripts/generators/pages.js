@@ -52,4 +52,4 @@ hexo.extend.generator.register('_links', function(locals) {
 });
 
 // generate index page
-hexo.extend.generator.register('index', require('./index-generator'));
+// hexo.extend.generator.register('index', require('./index-generator'));
